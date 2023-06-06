@@ -8,9 +8,9 @@
 #### NOTE:回数制限なし、記名なし、長さ制限なし
 #### 講義資料のPPTは[こちらから](https://drive.google.com/file/d/1Gpe87RSfEZIcwKxziCUk481wSGWg3pre/view?usp=sharing)  
 
-### The Book: [Factfulness](https://www.gapminder.org/factfulness-book/)
+### The Book:  
+[Factfulness](https://www.gapminder.org/factfulness-book/); [『ファクトフルネス』ウェブ脚注](https://factfulness-source.chibicode.com/)
 
-[おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
 ### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
 we modified the training data and model for students with agriculture background.  
@@ -18,3 +18,9 @@ modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-La
 <br>
 
 ### ハンズオン関係
+#### [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
+#### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
+original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
+we modified the training data and model for students with agriculture background.  
+modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer).
+<br>
