@@ -13,8 +13,15 @@
 
 
 ### ハンズオン関係
-#### [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
-#### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
+#### ドローン画像解析：　　
+1. 参考文献：[UAS-Based Plant Phenotyping for Research and Breeding Applications](https://spj.science.org/doi/10.34133/2021/9840192)
+2. 練習用データ：[Sugarbeet_30m](https://www.dropbox.com/sh/5epqozi01fuv2gj/AABGO9ojPdxrQa74sNUeSxJAa?dl=0)
+3. ソフトウェア：[PREPs: Precision Plots Analyser for breeding field](http://cse.naro.affrc.go.jp/aitoh/PREPs/)
+
+
+#### 深層学習を用いた画像解析
+1. [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
+2. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
 we modified the training data and model for students with agriculture background.  
 modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer).
