@@ -8,6 +8,8 @@
 #### NOTE:回数制限なし、記名なし、長さ制限なし
 #### 講義資料のPPTは[こちらから](https://drive.google.com/file/d/1Gpe87RSfEZIcwKxziCUk481wSGWg3pre/view?usp=sharing)  
 
+### The Book: [Factfulness](https://www.gapminder.org/factfulness-book/)
+
 [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
 ### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
