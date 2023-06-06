@@ -14,10 +14,11 @@
 
 ### ハンズオン関係
 #### ドローン画像解析：　　
-1. 参考文献：[UAS-Based Plant Phenotyping for Research and Breeding Applications](https://spj.science.org/doi/10.34133/2021/9840192)
+1. 参考資料：  
+1.1 [UAS-Based Plant Phenotyping for Research and Breeding Applications](https://spj.science.org/doi/10.34133/2021/9840192)
 2. 練習用データ：[Sugarbeet_30m](https://www.dropbox.com/sh/5epqozi01fuv2gj/AABGO9ojPdxrQa74sNUeSxJAa?dl=0)
 3. ソフトウェア：[PREPs: Precision Plots Analyser for breeding field](http://cse.naro.affrc.go.jp/aitoh/PREPs/)
-
+<br>
 
 #### 深層学習を用いた画像解析
 1. 参考資料：
