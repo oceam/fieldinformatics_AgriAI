@@ -28,4 +28,6 @@ we modified the training data and model for students with agriculture background
 modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer).
 2. 練習用データ：[Weeds](https://www.dropbox.com/s/y7u2ttbg4u27m4g/weeds.zip?dl=0)
 3. ソフトウェア：[Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+3.1 Google teachable machineのモデルを自分のPythonに利用  
+[![image](https://colab.research.google.com/assets/colab-badge.svg)](test_teachable_machine_model_20230607.ipynb) <br>
 <br>
