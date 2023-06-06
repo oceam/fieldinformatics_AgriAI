@@ -20,9 +20,12 @@
 
 
 #### 深層学習を用いた画像解析
-1. [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
-2. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
+1. 参考資料：
+1.1 [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
+1.2 [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
 we modified the training data and model for students with agriculture background.  
 modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer).
+2. 練習用データ：[Weeds](https://www.dropbox.com/s/y7u2ttbg4u27m4g/weeds.zip?dl=0)
+3. ソフトウェア：[Google Teachable Machine](https://teachablemachine.withgoogle.com/)
 <br>
