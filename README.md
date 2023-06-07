@@ -1,4 +1,4 @@
-# fFieldInfomatics-Lecture-2023
+# FieldInfomatics-Lecture-2023
 フィールドインフォマティクス20230607講義  
 講義サポート ページ  
 場所：オンライン
