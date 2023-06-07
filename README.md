@@ -10,7 +10,7 @@
 
 ### The Book:  
 #### [Factfulness](https://www.gapminder.org/factfulness-book/); [『ファクトフルネス』ウェブ脚注](https://factfulness-source.chibicode.com/)
-
+#### [Gapminder Test](https://ahaslides.com/7YDWL)
 
 ### ハンズオン関係
 #### ドローン画像解析：　　
