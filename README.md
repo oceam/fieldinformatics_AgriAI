@@ -6,7 +6,7 @@
 
 ## 質問は随時受け付けています ZoomのChatを活用ください　　
 #### NOTE:回数制限なし、記名なし、長さ制限なし
-#### 講義資料のPPTは[こちらから](https://drive.google.com/file/d/1Gpe87RSfEZIcwKxziCUk481wSGWg3pre/view?usp=sharing)  
+#### 講義資料のPPTは[UTokyo ICT-LMSから](https://itc-lms.ecc.u-tokyo.ac.jp/login)  
 
 ### The Book:  
 #### [Factfulness](https://www.gapminder.org/factfulness-book/); [『ファクトフルネス』ウェブ脚注](https://factfulness-source.chibicode.com/)
