@@ -1,5 +1,7 @@
-# FieldInfomatics-Lecture-2023
-フィールドインフォマティクス20230607講義  
+# FieldInfomatics-Lecture
+フィールドインフォマティクス講義  
+農業分野におけるAI画像解析
+
 講義サポート ページ  
 場所：オンライン
 [東京大学フィールドインフォマティクスホームペッジ](https://www.iu.a.u-tokyo.ac.jp/lectures/AG16/)
