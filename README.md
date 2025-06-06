@@ -4,7 +4,7 @@
 
 講義サポート ページ  
 場所：オンライン
-[東京大学フィールドインフォマティクスホームペッジ](https://www.iu.a.u-tokyo.ac.jp/lectures/AG16/)
+[東京大学フィールドインフォマティクス](https://www.iu.a.u-tokyo.ac.jp/lectures/AG16/)
 
 ## 質問は随時受け付けています ZoomのChatを活用ください　　
 #### NOTE:回数制限なし、記名なし、長さ制限なし
